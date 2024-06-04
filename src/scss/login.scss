@@ -1,0 +1,25 @@
+@import "bootstrap/scss/bootstrap";
+
+// estilos del login --------------------------------------
+//imagen principal
+#background-section {
+    background-color: rgba(102, 14, 17, 0.921);
+}
+
+#main-image {
+    border-radius: 1rem 0 0 1rem;
+}
+
+.card {
+    border-radius: 1rem;
+}
+
+#div-i{
+    color: #ff6219;
+}
+#sign-in {
+    letter-spacing: 1px;
+}
+.text-register{
+    color: #393f81;
+}

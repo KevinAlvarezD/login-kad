@@ -1,0 +1,25 @@
+@import "bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+//estilos vista publica de vacantes
+#icon-nav{
+    width: 10%;
+}
+h1{
+    font-size: 70px;
+    font-family:'Lucida Sans';
+    color: #0e0d0dea;
+
+}
+
+#tittle-riwi{
+    font-size: 90px;
+    font-family: 'Pirata One', cursive;
+    color: #ff9900ea;
+    
+}
+
+
+.nav-link{
+    font-family: 'Pirata One', cursive;
+    font-size: 20px;
+}

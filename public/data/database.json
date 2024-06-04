@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1c29",
+      "name": "honda",
+      "nit": "35384351298348",
+      "email": "honda@gmail.com",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Honda_Logo.svg",
+      "password": "123"
+    },
+    {
+      "name": "bmws1000rr",
+      "nit": "65165161681650000",
+      "email": "bmw@gmail.com",
+      "password": "123",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
+      "id": "77aa"
+    }
+  ]
+}
